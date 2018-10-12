@@ -10,3 +10,10 @@ Infinitrucks is game developed by BearSpray Game at George Brown College,created
 ## Game Overview
 * The game is named as infiniTrucks which is an endless game so, the main goal of game is to collect as much point as possible with 
 the help of dodging the collision with other vehicles. Moreover, the player can earn bonus points while collectibles.
+
+## Debug code:
+[I/K]: +/- health
+[J/L]: +/- score
+[p]: pause
+[tab]: switch scene to night(can't switch back)
+[esc]: game over 
